@@ -1,16 +1,52 @@
-## Hi there 👋
+# ¡Hola! Soy Jerlinson 👋
 
-<!--
-**OpiumnJei/OpiumnJei** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<a href="https://www.linkedin.com/in/tu-usuario-linkedin/">
+  <img align="left" alt="Mi LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
+<a href="https://twitter.com/tu-usuario-twitter">
+  <img align="left" alt="Mi Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+</a>
+<br />
+<br />
 
-Here are some ideas to get you started:
+Soy un desarrollador de software apasionado por la creación de aplicaciones móviles y soluciones backend robustas. Actualmente estoy enfocado en el ecosistema de Java y el desarrollo de APIs REST.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠️ Mis Tecnologías y Herramientas
+
+<p align="left">
+  <a href="https://www.java.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
+  </a>
+  <a href="https://spring.io/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" alt="spring" width="40" height="40"/>
+  </a>
+  <a href="https://www.mysql.com/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
+  </a>
+  <a href="https://www.docker.com/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/>
+  </a>
+   <a href="https://azure.microsoft.com/es-es/" target="_blank">
+    <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/>
+  </a>
+   <a href="https://git-scm.com/" target="_blank">
+    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
+  </a>
+</p>
+
+---
+
+### 🌱 Actualmente estoy trabajando en...
+
+- 📱 El desarrollo de la App Móvil para **Greetings App**, que consumirá mi `images-api`.
+- ☁️ Aprendiendo sobre las mejores prácticas para desplegar aplicaciones en un **VPS** y optimizar costos.
+- 👨‍💻 Mejorando la arquitectura y la calidad del código de mi proyecto `images-api`.
+
+---
+
+### 📫 ¿Hablamos?
+
+- 💬 Puedes dejarme un mensaje en mi LinkedIn.
+- 📧 Contáctame en **jerlinsongonzalez0000@gmail.com**
