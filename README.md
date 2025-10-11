@@ -1,11 +1,10 @@
 # ¡Hola! Soy Jerlinson 👋
 
-<a href="https://www.linkedin.com/in/tu-usuario-linkedin/">
-  <img align="left" alt="Mi LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+<a href="https://www.linkedin.com/in/jerlinson-gonzález-a85a6720b//">
+  <img align="left" alt="Mi LinkedIn" width="100px" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 <a href="https://twitter.com/tu-usuario-twitter">
-  <img align="left" alt="Mi Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
-</a>
+  </a>
 <br />
 <br />
 
@@ -19,18 +18,23 @@ Soy un desarrollador de software apasionado por la creación de aplicaciones mó
   <a href="https://www.java.com" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
   </a>
+  &nbsp;&nbsp;
   <a href="https://spring.io/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" alt="spring" width="40" height="40"/>
   </a>
+  &nbsp;&nbsp;
   <a href="https://www.mysql.com/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
   </a>
+  &nbsp;&nbsp;
   <a href="https://www.docker.com/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/>
   </a>
+  &nbsp;&nbsp;
    <a href="https://azure.microsoft.com/es-es/" target="_blank">
     <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/>
   </a>
+  &nbsp;&nbsp;
    <a href="https://git-scm.com/" target="_blank">
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
   </a>
