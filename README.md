@@ -1,6 +1,6 @@
 # ¡Hola! Soy Jerlinson 👋
 
-<a href="https://www.linkedin.com/in/jerlinson-gonzález-a85a6720b//">
+<a href="https://www.linkedin.com/in/jerlinson-gonzalez-a85a6720b/">
   <img align="left" alt="Mi LinkedIn" width="100px" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 <a href="https://twitter.com/tu-usuario-twitter">
